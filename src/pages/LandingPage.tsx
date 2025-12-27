@@ -9,7 +9,7 @@ import Contact from "../sections/Contact";
 
 export default function LandingPage() {
   return (
-    <main className="pt-12 bg-surface">
+    <main className="pt-12 bg-surface overflow-x-hidden w-full">
       <Hero />
       <About />
       <WhatWeDo />

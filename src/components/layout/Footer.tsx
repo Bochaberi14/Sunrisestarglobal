@@ -1,14 +1,3 @@
-/*export default function Footer() {
-  return (
-    <footer className="border-t border-slate-200 bg-white">
-      <div className="mx-auto max-w-7xl px-6 py-10">
-        <p className="text-sm text-muted">
-          © {new Date().getFullYear()} Sunrise Star Global Trading LLC. All rights reserved.
-        </p>
-      </div>
-    </footer>
-  );
-}*/
 import React from "react";
 import { FaFacebookF, FaTwitter, FaLinkedinIn, FaInstagram } from "react-icons/fa";
 
